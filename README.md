@@ -40,13 +40,13 @@ SATYA is a chatbot designed to answer spiritual queries based on the **Bhagavad 
     (Paste path of two csv of evaluation , paste .faiss path which we saved in previous code , paste fine tuned model path.)
 
 (4) app.py : save this code in visual studio ( install requirements using these commands in terminal ) (Paste paths , Comments are added only above that lines where path and api key of Hugging Face is to be pasted.)
-    commnand : pip install faiss-cpu  \n
-               pip install sentence-transformers \n
-               pip install pandas \n
-               pip install numpy \n
-               pip uninstall -y torch torchvision torchaudio \n
-               pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 \n
-               pip install git+https://github.com/huggingface/transformers.git \n
-               pip install safetensors \n
-               pip install streamlit \n
+    commnands : pip install faiss-cpu ,
+               pip install sentence-transformers ,
+               pip install pandas ,
+               pip install numpy ,
+               pip uninstall -y torch torchvision torchaudio ,
+               pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 ,
+               pip install git+https://github.com/huggingface/transformers.git ,
+               pip install safetensors ,
+               pip install streamlit .
 
