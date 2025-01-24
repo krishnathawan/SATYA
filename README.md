@@ -26,7 +26,6 @@ SATYA is a chatbot designed to answer spiritual queries based on the **Bhagavad 
 ---
 
 ## Instructions for running
-  ** Comments are added only above that lines where we are required to paste the path.(This is avoid confusion and mess) **
 
   INITIAL DATASETS : Bhagwad_Gita_Verses_English.csv , Patanjali_Yoga_Sutras_Verses_English.csv , Bhagwad_Gita_Verses_English_Questions.csv , Patanjali_Yoga_Sutras_Verses_English_Questions.csv
   FORMED DATASETS(Through below codes) : new_fine_tuned link , fine_tuned_embeddings.faiss.
